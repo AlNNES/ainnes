@@ -1,1 +1,2 @@
-# ainnes
+> [!IMPORTANT]
+If you want to change your clothes/character/vehicle, then go to `Engine/Config/BaseEngine.ini` , press `Ctrl+f` type `TimeBetweenPurgingPendingKillObjects` in the search bar and press enter, in the found line, put the value `60` instead of `0`, then save the file and restart the game, once you are done designing, set this value back to `0` and restart the game again, so that there are no more slowdowns during the game.
